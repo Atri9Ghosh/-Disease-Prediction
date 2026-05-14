@@ -80,9 +80,6 @@ Contributions to this project are encouraged and welcome! If you'd like to contr
 3. Test your changes thoroughly.
 4. Create a pull request detailing the changes you've made.
 
-Please read the [CONTRIBUTING](CONTRIBUTING.md) guidelines for more details.
-
-
 ## Keywords and Tags
 
 Multiple Disease Prediction, Machine Learning, Healthcare, Data Analysis, Classification, Python
@@ -91,12 +88,3 @@ Multiple Disease Prediction, Machine Learning, Healthcare, Data Analysis, Classi
 
 
 
-
-
-## Acknowledgements
-
-We extend our gratitude to the open-source community and the developers of libraries that make this project possible.
-
----
-
-Developed by Shezi (https://github.com/shezi7025)
